@@ -206,3 +206,12 @@ footer {
   font-weight: 400;
   font-style: normal;
 }
+
+#homebutton{
+  position:fixed;
+  left: 20px;
+  top: 30px;
+  background-color:#bda08a;
+  color: white;
+  
+}
