@@ -179,11 +179,25 @@ footer {
   font-style: normal;
 }
 
-#homebutton{
-  position:fixed;
+#homebutton {
+  position: fixed;
   left: 20px;
   top: 30px;
-  background-color:#bda08a;
+  background-color: #bda08a;
   color: white;
-  
+  text-decoration: none;
+  border-radius: 6px;
+  width: 70px;
+  height: 20px;
+}
+
+#homebutton a {
+  text-decoration: none;
+  color: white;
+}
+
+#homebutton:hover {
+  background-color: #ffb347;
+  color: #081f3d;
+  transition: background-color 0.25s ease, color 0.25s ease;
 }

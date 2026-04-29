@@ -26,8 +26,8 @@ nav{
 }
 
 .link:hover{
-    text-shadow: 2px 2px 5px rgba(96, 243, 253, 0.842);
-    font-size: 50px;
+    text-shadow: 5px 5px 8px rgba(96, 243, 253, 0.842);
+    /* font-size: 50px; */
 }
 
 body{
